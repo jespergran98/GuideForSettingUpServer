@@ -1,0 +1,3 @@
+# Ignore ephemerial .NET files
+bin
+obj
