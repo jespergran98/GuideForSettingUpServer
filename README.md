@@ -23,7 +23,7 @@ dotnet run (kopier inn localhost i nettleseren)
 Slutt et prosjekt:
 ctrl+c mens terminalen er markert
 
--
+--
 
 (C# Dev Kit må lastes ned først)
 mer avansert, for å sette opp Server.csproj filen:
@@ -83,19 +83,42 @@ Hva skal skje?
 
 bruker "get".
 
-Post -> Create
-Get -> Read
-Put -> Update
-Delete -> Delete
-
 --
 
 Installer C# DEV KIT extension i vs code.
 
+--
 
-///////////////////////////////////////////////////
+Dag 2 tutorial:
 
-LARS GUIDE:
+Legge til i body i Hoppscotch.
+
+HTTP response status codes:
+Informational responses (100 – 199)
+Successful responses (200 – 299)
+Redirection messages (300 – 399)
+Client error responses (400 – 499)
+Server error responses (500 – 599)
+
+-
+
+Object Oriented Programming "substantiv".
+
+Data typene:
+Boolean: sant/usant
+Tekst streng: Sekvens med symboler
+Tall: tall
+
+Gjøremål:
+Egenskaper/properties/data: Oppgave tekst streng, erFulført er sant/usant, tidsfrist, opprettelse tidspunkt
+
+Metoder/methods/funksjoner: slette, redigere, utseende, gjøre
+
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////
+
+LARS GUIDE: https://github.com/LarsGJobloop/2025-09-22-backend-intro (for full kode)
 
 ## Sketches
 
